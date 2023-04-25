@@ -7,7 +7,6 @@ if(isset($_SESSION['userid'])){
 
 ?>
 
-
 <!--Project definataion-SHOPPING CART APP using AJAX,JQUERY,PHP,MYSQLI-->
 <!--I HAVE USED BOOTSTRAP FOR FRONT END username: abc@gmail.com password: Chirag@3007-->
 <!DOCTYPE html>
