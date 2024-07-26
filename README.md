@@ -1,7 +1,7 @@
-# 🛒 CartAce - Your Ultimate E-commerce Solution! 🚀
+# 🛒 SnapShop - Your Ultimate E-commerce Solution! 🚀
 
 ## 🌟 Overview
-CartAce is not just another e-commerce platform - it's your ticket to online retail success! 🎫 Built with PHP, MySQL, and sprinkled with AJAX magic ✨, CartAce offers a smooth, responsive, and feature-packed shopping experience that'll make your customers come back for more! 
+SnapShop is not just another e-commerce platform - it's your ticket to online retail success! 🎫 Built with PHP, MySQL, and sprinkled with AJAX magic ✨, CartAce offers a smooth, responsive, and feature-packed shopping experience that'll make your customers come back for more! 
 
 ## 🎭 Features
 
