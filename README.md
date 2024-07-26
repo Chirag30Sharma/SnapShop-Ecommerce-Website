@@ -25,7 +25,7 @@ Get CartAce up and running faster than you can say "Add to Cart"! 🛒💨
 
 1. **Clone that repo!** 📂
    ```bash
-   git clone https://github.com/Chirag30Sharma/CartAce-Ecommerce-Website.git
+   git clone https://github.com/Chirag30Sharma/SnapShop-Ecommerce-Website.git
    cd CartAce-Ecommerce-Website
    ```
 
